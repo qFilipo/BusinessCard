@@ -1,0 +1,50 @@
+.b{
+	background-color: green;
+	//padding: 100px 0;
+}
+.card{
+	text-align: center;
+}
+.img-width{
+	display: flex;
+	justify-content: space-around;
+	margin-left: auto;
+	margin-right: auto;
+	background: linear-gradient(-45deg, #cc4900, 75%, #ceaa00);
+	width: 500px;
+	height: auto;
+	border-radius: 20px;
+	border-bottom: 10px solid #b4b4b4;
+}
+.imgage{
+	width: 250px;
+	height: auto;
+	display: block;
+	margin: 20px 20px;
+	border-radius: 20px;
+	border: 5px inset #1c9c30;
+}
+
+.text{
+	display: inline;
+	height: inherit;
+	text-align: center;
+	margin: auto auto;
+}
+
+.italic{
+	font-family: Verdana;
+	font-style: normal;
+}
+
+.dotted{
+	border: 1px dotted blue;
+}
+
+.jpn{
+	background: red;
+	width:400px;
+	height: 400px;
+	border-radius:50%;
+	margin: 0 auto 0 auto;
+	}
